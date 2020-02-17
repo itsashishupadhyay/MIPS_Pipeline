@@ -1,0 +1,4 @@
+compile using
+g++ .\branchsimulator.cpp
+run the Exe file by passing argv
+.\a.exe config.txt trace.txt
